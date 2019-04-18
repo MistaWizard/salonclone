@@ -17,9 +17,9 @@
 }
 
 @media screen and (min-width: 321px) and (max-width: 360px) {
-    #ReactGridGallery {
-        margin: 0 17%; 
-    }
+ #ReactGridGallery {
+     margin: 0 17%; 
+ }
 }
 
 @media screen and (min-width: 361px) and (max-width: 376px) {
